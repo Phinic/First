@@ -9,5 +9,5 @@ class Student():
       
 kot=Student("kot",11)
 kot.print1()
-kot.changeID(12)
+kot.changeID(13)
 kot.print1()
